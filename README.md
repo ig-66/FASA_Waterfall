@@ -1,6 +1,13 @@
 # Waterfall for FASA
 Frizzank Aeronautical Space Administration, or FASA for short, came a long time ago, in a simpler time, a time without Waterfall effects. This mod brings Watterfall to FASA!
 
+## Screenshots
+
+![alt text](https://github.com/ig-66/FASA_Waterfall/blob/main/pics/screenshot27.png?raw=true)
+![alt text](https://github.com/ig-66/FASA_Waterfall/blob/main/pics/screenshot29.png?raw=true)
+![alt text](https://github.com/ig-66/FASA_Waterfall/blob/main/pics/screenshot41.png?raw=true)
+![alt text](https://github.com/ig-66/FASA_Waterfall/blob/main/pics/screenshot43.png?raw=true)
+
 ## Requirements
 - FASA
 - Waterfall
