@@ -6,7 +6,7 @@ Frizzank Aeronautical Space Administration, or FASA for short, came a long time 
 - Waterfall
 - KSP version 1.12.99*
 
-* Might work on older versions.
+*Might work on older versions.
 
 ## Installation
 Simply drag and drop FASA_Waterfall into the GameData folder.
