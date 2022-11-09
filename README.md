@@ -1,6 +1,9 @@
 # Waterfall for FASA
 Frizzank Aeronautical Space Administration, or FASA for short, came a long time ago, in a simpler time, a time before the beautiful Waterfall effects. This mod brings Watterfall to FASA!
 
+## Progress 
+The mod is not yet complete. Many of the engines are already modded and tested. RCS thrusters effects are yet to be added.
+
 ## Screenshots
 
 ![alt text](https://github.com/ig-66/FASA_Waterfall/blob/main/pics/screenshot27.png?raw=true)
